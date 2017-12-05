@@ -1,0 +1,48 @@
+{
+	"results": [{
+		"activity": [{
+			"letter": "B",
+			"slot": 1,
+			"ms_time": 1512468970035,
+			"time": 1512468970
+		}, {
+			"letter": "E",
+			"slot": 2,
+			"ms_time": 1512468972968,
+			"time": 1512468972
+		}, {
+			"letter": "E",
+			"slot": 3,
+			"ms_time": 1512468974368,
+			"time": 1512468974
+		}, {
+			"letter": "F",
+			"slot": 4,
+			"ms_time": 1512468983465,
+			"time": 1512468983
+		}],
+		"childid": "59eeebb31b814a4c74697caf",
+		"word": "BEEF",
+		"version": "2.0",
+		"game_version": "1.3.13",
+		"game_id": "56cab8e937f4c94f14bf5502",
+		"gamescore": "1",
+		"gameword": "",
+		"level": "1",
+		"platform": "Android",
+		"ps_firmware": "2.13",
+		"request_letters": [],
+		"sdk_version": "3.2",
+		"userid": "59eeeb501b814a4c74697ca4",
+		"starttime": 1512468926,
+		"start_ms_time": 1512468926538,
+		"endtime": 1512468997,
+		"end_ms_time": 1512468997610
+	}]
+}
+
+
+
+{
+	"message": "success"
+}
